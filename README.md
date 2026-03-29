@@ -1,4 +1,9 @@
 # Induction heater
+- **This project is an Induction heater based on oscillation (ZVS-Zero Voltage Switching).**
+- **The journal features all guides, progress, explanations on how ZVS works and why it is the best way.**
+
+
+_Here is the journal:_
 # 3/29/2026 10 AM - Completed all the designs, finished the BOM and Github repository
 
 _Time spent: 3.5h_
