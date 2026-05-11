@@ -18,16 +18,22 @@
 _**Pictures:**_
 
 
-![image](https://stasis.hackclub-assets.com/images/1774713304244-sov08v.png)
-
-![image](https://stasis.hackclub-assets.com/images/1774713327173-220jo6.png)
-
-![image](https://stasis.hackclub-assets.com/images/1774713351199-wltwzm.png)
+<img width="797" height="792" alt="image" src="https://github.com/user-attachments/assets/4f14feee-bc7d-4030-924d-f5326a7db9ec" />
 
 
-![image](https://stasis.hackclub-assets.com/images/1774713417445-1eprn5.png)
+<img width="793" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1c5250-86f1-4c01-bfb3-64961b2842e8" />
 
-![image](https://stasis.hackclub-assets.com/images/1774713447508-j6jjec.png)
+
+
+<img width="882" height="867" alt="image" src="https://github.com/user-attachments/assets/69db1c0f-746f-40e5-b2ec-396d9d2dd843" />
+
+
+
+<img width="882" height="882" alt="image" src="https://github.com/user-attachments/assets/50c3abb7-47a7-4809-822a-4516716d7130" />
+
+
+<img width="865" height="690" alt="image" src="https://github.com/user-attachments/assets/c330a3fa-7833-4d4b-ae50-9d3d749192f4" />
+
 
 ![image](https://stasis.hackclub-assets.com/images/1774717819545-9exsny.png)
 
