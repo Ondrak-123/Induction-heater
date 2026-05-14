@@ -499,15 +499,15 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
-      "idf": "",
+      "gencad": "../../Downloads/Induction heaterx.cad",
+      "idf": "../../Downloads/Induction heater.emn. emn. emn",
       "netlist": "",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Downloads/Induction Heater STEP.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "../../Downloads/Induction heater1.wrl"
     },
     "page_layout_descr_file": ""
   },
