@@ -1,6 +1,7 @@
+Macondo link: https://macondo.hackclub.com/projects/6495
 # Induction heater
 - **This project is an Induction heater based on oscillation (ZVS-Zero Voltage Switching).**
-- **The journal can be found at https://stasis.hackclub.com/dashboard/projects/cmmuu5lqf00kx01ns6pu1y2ej**
+- **The journal can be found at https://stasis.hackclub.com/dashboard/projects/cmmuu5lqf00kx01ns6pu1y2ej (project was started on Statis and now will be finished on Macondo!**
 - **The journal features all guides, progress, explanations on how ZVS works and why it is the best way.**
   
 **Why am I using softswitching and what is it?**
@@ -35,8 +36,7 @@ _**Pictures:**_
 <img width="865" height="690" alt="image" src="https://github.com/user-attachments/assets/c330a3fa-7833-4d4b-ae50-9d3d749192f4" />
 
 
-![image](https://stasis.hackclub-assets.com/images/1774717819545-9exsny.png)
-
-
-![image](https://stasis.hackclub-assets.com/images/1774779005818-h24vt2.png)
+Created a completely new BOM!:
+<img width="1424" height="632" alt="Snímek obrazovky 2026-08-20 191143" src="https://github.com/user-attachments/assets/ce8a07cb-ff36-42ab-a8d9-c55f5e3dd758" />
+<img width="1309" height="680" alt="Snímek obrazovky 2026-08-20 190943" src="https://github.com/user-attachments/assets/62ee1f60-91d7-4683-86c4-776b170ba3ec" />
 
