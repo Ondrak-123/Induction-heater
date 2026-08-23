@@ -1,8 +1,8 @@
 Name,Symbol / TME Code,Purpose,Link,Quantity needed
 PCB,,From JLCPCB,*,1
-1N4007 Diode,,for soft starter.,*,1
-Resistor 100kH,,for soft starter.,*,1
-Power cable,,"for power HIGH AWG.",*,1
+1N4007 Diode,for soft starter.,*,1
+Resistor 100kH,for soft starter.,*,1
+Power cable,"for power HIGH AWG.",*,1
 Freewheeling diode SB1100,SB1100 DIO 100V 1A,https://www.tme.eu/cz/details/sb1100_dio/diody-schottky-tht/dietec-semiconductor/sb1100/,2
 Resistor 47R 5W,9W-47R,https://www.tme.eu/cz/details/5w-47r/rezistory-tht/royalohm/mxe05w-j0470wfl/,1
 Zener diode 15V 1W,1N4744ATR,https://www.tme.eu/cz/details/1n4744atr/zenerovy-diody-tht/onsemi/,2
