@@ -18,6 +18,9 @@ Macondo link: https://macondo.hackclub.com/projects/6495
 
 _**Pictures:**_
 
+<img width="1228" height="541" alt="image" src="https://github.com/user-attachments/assets/c6b14349-c095-47d8-a065-b4256c72ea10" />
+
+
 
 <img width="797" height="792" alt="image" src="https://github.com/user-attachments/assets/4f14feee-bc7d-4030-924d-f5326a7db9ec" />
 
