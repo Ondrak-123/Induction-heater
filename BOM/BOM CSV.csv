@@ -1,0 +1,26 @@
+Name;Symbol/TME Code:;Purpose;Link:;Quantity needed:;Total Cost (CZK):;Total cost (USD):
+PCB;;From JLCPCB;*;1;*0*; $8,44 
+IN4007 Diode;;For soft starter.;*;1; *0* ; *0* 
+Resistor 100KR;;For soft starter.;*;1; *0* ; *0* 
+Power cable;;For power, HIGH AWG.;*;1; *0* ; *0* 
+Freewheeling diode SB1100;SB1100-DIO;100V 1A;https://www.tme.eu/cz/details/sb1100-dio/diody-schottky-tht/diotec-semiconductor/sb1100/;2;7,02 Kè; *0* 
+Resistor 47R 5W;5W-47R;;https://www.tme.eu/cz/details/5w-47r/rezistory-tht/royalohm/mor05sj0470afi/;1;23,86 Kè; *0* 
+Zener diode 15V 1W;1N4744ATR;;https://www.tme.eu/cz/details/1n4744atr/zenerovy-diody-tht/onsemi/;2;8,48 Kè; *0* 
+Resistor 150R 5W;AC05-150R-5%;;https://www.tme.eu/cz/details/ac05-150r-5%25/vykonne-rezistory/vishay/ac05000001500jac00/;2;43,86 Kè; *0* 
+Thermal paste;QOLTEC-51630;Better heat transfer.;https://www.tme.eu/cz/details/qoltec-51630/teplovodni-pasty/qoltec/51630/;2;45,02 Kè; *0* 
+Capacitor 220uF;CE-220/16PHT-Y;For soft starter. MOQ: 20;https://www.tme.eu/cz/details/ce-220_16pht-y/elektrolyticke-kondenzatory-tht/aishi/ewh1cm221e11ot/;1;32,74 Kè; *0* 
+Capacitor 1,5uF/2uF;C4AF9BU4150A1XK;ZVS switching.;https://www.tme.eu/cz/details/c4af9bu4150a1xk/kondenzatory-foliove-tht/kemet/;2;157,16 Kè; *0* 
+Resistor 10KR 5W;CRL5W-10K;ZVS switching. MOQ: 10;https://www.tme.eu/cz/details/crl5w-10k/vykonne-rezistory/sr-passives/;2;28,46 Kè; *0* 
+Transistor 2N7000;2N7000-DIO;For soft starter.;https://www.tme.eu/cz/details/2n7000-dio/tranzistory-s-kanalem-n-tht/diotec-semiconductor/2n7000/;3;18,13 Kè; *0* 
+Inductors;DPT220A5;Inductors 220uH.;https://www.tme.eu/cz/details/dpt220a5/tlumivky/ferrocore/;2;107,30 Kè; *0* 
+Heatsink;SK104-38STS;Mosfet Cooling.;https://www.tme.eu/cz/details/sk104-38sts/chladice/fischer-elektronik/;2;129,23 Kè; *0* 
+Mosfet IRFB7730;IRFB7730PBF;ZVS switching.;https://www.tme.eu/cz/details/irfb7730pbf/tranzistory-s-kanalem-n-tht/infineon-technologies/;2;159,04 Kè; *0* 
+Coil;;Few turns of solid copper wire.;*;1; *0* ; *0* 
+TME Shipping;;; * ;;169,41 Kè; *0* 
+;;;;;929,71 Kè; $8,44 
+;;;;;;
+;;;;;;
+;;;929,71CZK =;44,97 USD;;
+;;;; ´+8,44 USD ;;
+;;;TOTAL:;53,41 USD;;
+;;REQUESTING AMOUNT:;;58 USD;;
