@@ -37,6 +37,8 @@ _**Pictures:**_
 
 
 Created a completely new BOM!:
+<img width="1269" height="498" alt="image" src="https://github.com/user-attachments/assets/150b0f95-4b36-4ec7-ae34-188771a51caa" />
+
 <img width="1424" height="632" alt="Snímek obrazovky 2026-08-20 191143" src="https://github.com/user-attachments/assets/ce8a07cb-ff36-42ab-a8d9-c55f5e3dd758" />
 <img width="1309" height="680" alt="Snímek obrazovky 2026-08-20 190943" src="https://github.com/user-attachments/assets/62ee1f60-91d7-4683-86c4-776b170ba3ec" />
 
