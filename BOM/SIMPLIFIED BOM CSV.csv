@@ -1,5 +1,5 @@
 Name,Symbol / TME Code,Purpose,Link,Quantity needed
-PCB,,From JLCPCB,*,1
+PCB,From JLCPCB,*,1
 1N4007 Diode,for soft starter.,*,1
 Resistor 100kH,for soft starter.,*,1
 Power cable,"for power HIGH AWG.",*,1
